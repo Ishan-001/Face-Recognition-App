@@ -1,1 +1,2 @@
-include ':app' ,':tensorflow-lite'
+rootProject.name='FaceNet Detection'
+include ':app'

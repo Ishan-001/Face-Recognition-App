@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125281276007",
+    "project_id": "face-recognition-45aa5",
+    "storage_bucket": "face-recognition-45aa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125281276007:android:af6625fad68aea6c31c4c2",
+        "android_client_info": {
+          "package_name": "com.ml.quaterion.facenetdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125281276007-t5v1atd8tdlf7tm5b0ptmdirlt561uct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyT0mIYxbvGDTsYaVIJKKKCukN1NsGbaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125281276007-t5v1atd8tdlf7tm5b0ptmdirlt561uct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
